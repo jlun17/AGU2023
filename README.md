@@ -7,4 +7,4 @@ Here, we animate through images from all nine MISR view angles co-registered at 
 
 <img src="https://github.com/jlun17/AGU2023/blob/main/misr_movies/observations.gif" alt="your_alternative_text" width="300" height="400" loop=infinite><img src="https://github.com/jlun17/AGU2023/blob/main/misr_movies/retrievals.gif" alt="your_alternative_text" width="300" height="400" loop=infinite>
 
-On the left are observations from MISR and on the right are forward simulations of multi-angle radiance at corresponding view angles.
+On the left are observations from MISR and on the right are forward simulations of multi-angle radiance at corresponding view angles using the retrieved 3D extinction field from AT3D.
