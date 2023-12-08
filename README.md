@@ -5,6 +5,6 @@ The Multi-angle Imaging SpectroRadiometer (MISR) aboard the NASA Terra satellite
 ## MISR Movies
 Here, we animate through images from all nine MISR view angles co-registered at 3km in altitude. Cloud tops are under 3km in altitude, so the greatest parallax can be seen at cloud base.
 
-<img src="https://github.com/jlun17/AGU2023/blob/main/observations3.gif" alt="your_alternative_text" width="300" height="400" loop=infinite><img src="https://github.com/jlun17/AGU2023/blob/main/retrieval3.gif" alt="your_alternative_text" width="300" height="400" loop=infinite>
+<img src="https://github.com/jlun17/AGU2023/blob/main/misr_movies/observations.gif" alt="your_alternative_text" width="300" height="400" loop=infinite><img src="https://github.com/jlun17/AGU2023/blob/main/misr_movies/retrievals.gif" alt="your_alternative_text" width="300" height="400" loop=infinite>
 
 On the left are observations from MISR and on the right are forward simulations of multi-angle radiance at corresponding view angles.
